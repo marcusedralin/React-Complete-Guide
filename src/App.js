@@ -8,7 +8,7 @@ const TEST_Expenses = [
     id: 'e1',
     title: 'Gas',
     amount: 73.23,
-    date: new Date(2020, 2, 14),
+    date: new Date(2019, 2, 14),
   },
   {
     id: 'e2',
@@ -20,7 +20,7 @@ const TEST_Expenses = [
     id: 'e3',
     title: 'Car Insurance',
     amount: 302.12,
-    date: new Date(2020, 2, 17),
+    date: new Date(2022, 2, 17),
   },
   {
     id: 'e4',
